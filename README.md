@@ -4,6 +4,8 @@
 
 ## How to run on your local machine
 
+API config files are excluded from repository for security reasons. (/config)
+
 ``` bash
 
 # install dependencies
