@@ -1,6 +1,6 @@
 # NodeJS backend application for EmailApp
 
-> Email service that accepts the necessary information and sends emails
+> Email sending application that accepts the necessary information and sends emails
 
 ## Built With
 
