@@ -9,6 +9,9 @@
 * [MailgunJS](https://www.npmjs.com/package/mailgun-js) - Mail Service for the MailGun API
 * [Sendgrid/mail](https://www.npmjs.com/package/@sendgrid/mail) - Mail Service for the Sendgrid v3 Web API
 
+## Application flowchart
+![flowchart](https://image.ibb.co/jwXRTH/Untitled_Diagram.png)
+
 ## How to run on your local machine
 
 API config files are excluded from repository for security reasons. (/config)
