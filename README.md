@@ -2,6 +2,13 @@
 
 > Email service that accepts the necessary information and sends emails
 
+## Built With
+
+* [NodeJS](https://nodejs.org/en/) - JavaScript runtime built on Chrome's V8 JavaScript engine
+* [Express](https://expressjs.com/) - Backend framework
+* [MailgunJS](https://www.npmjs.com/package/mailgun-js) - Mail Service for the MailGun API
+* [Sendgrid/mail](https://www.npmjs.com/package/@sendgrid/mail) - Mail Service for the Sendgrid v3 Web API
+
 ## How to run on your local machine
 
 API config files are excluded from repository for security reasons. (/config)
