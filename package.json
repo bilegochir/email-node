@@ -1,0 +1,20 @@
+{
+  "name": "emailapp",
+  "version": "1.0.0",
+  "description": "Email service that accepts the necessary information and sends emails",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bileg-Ochir Ganzorig",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^6.2.1",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mailgun-js": "^0.16.0",
+    "nodemon": "^1.15.1"
+  }
+}
